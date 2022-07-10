@@ -1,4 +1,4 @@
-# SoftUni Python Conference Web Scraping Demos
+# SoftUni Python Scraping Demos
 
 ## About
 
